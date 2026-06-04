@@ -1,20 +1,29 @@
-name: Pacman Contribution Graph
+name: GitHub-Profile-3D-Contrib
+
 on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-permissions:
-  contents: write
+  schedule:
+    - cron: "0 18 * * *"   # runs daily at 18:00 UTC (11:30 PM IST)
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    permissions:
+      contents: write       # required so GITHUB_TOKEN can push back to the repo
+
     steps:
       - uses: actions/checkout@v4
-      - uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: M3dh4
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: update pacman graph
-          branch: output
-          create_branch: true
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: M3dh4
+
+      - name: Commit & Push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A .
+          git commit -m "generate 3D contribution graph" || exit 0
+          git push

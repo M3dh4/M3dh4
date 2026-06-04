@@ -39,6 +39,21 @@ class Medha:
     principle   = "real-world deployment > lab benchmarks"
     looking_for = "Master's (Fall 2027) · Research Collabs · Interesting Problems"
 ```
+---
+
+## Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M3dh4/M3dh4/output/dist/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M3dh4/M3dh4/output/dist/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/M3dh4/M3dh4/output/dist/pacman-contribution-graph-dark.svg">
+</picture>
+
+</div>
+
+---
 
 ---
 
@@ -71,21 +86,7 @@ class Medha:
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=M3dh4&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
 </div>
----
-
-## Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M3dh4/M3dh4/output/dist/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M3dh4/M3dh4/output/dist/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/M3dh4/M3dh4/output/dist/pacman-contribution-graph-dark.svg">
-</picture>
-
-</div>
-
----
+----
 
 <div align="center">
 

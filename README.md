@@ -71,17 +71,6 @@ class Medha:
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=M3dh4&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
 </div>
-
----
-
-## Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/M3dh4/M3dh4/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
-
-</div>
-
 ---
 
 ## Contributions

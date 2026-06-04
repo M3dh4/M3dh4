@@ -27,15 +27,11 @@ class Medha:
     name        = "Medha Sriram"
     university  = "VIT Vellore  ·  B.Tech CSE (AI & ML)  ·  2023–2027"
     roles       = ["Software Team Lead @ SEDS", "Rover & Drone Autonomy Developer"]
-    competed    = {
-        "IRC 2025":  "13th / 100+ teams ",
-        "IRDC 2025": "Top 5 Finalist  "
-    }
     certs       = [
         "Oracle OCI 2025 Generative AI Professional",
         "Google Data Analytics"
     ]
-    languages   = ["Python", "C++", "TypeScript"]
+    languages   = ["Python", "C++", "TypeScript","JavaScript","HTML","React","Java"]
     principle   = "real-world deployment > lab benchmarks"
     looking_for = "Master's (Fall 2027) · Research Collabs · Interesting Problems"
 ```
@@ -75,7 +71,7 @@ class Medha:
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,typescript,javascript&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,typescript,javascript,java,html,c,react&perline=8)](https://skillicons.dev)
 
 </div>
 

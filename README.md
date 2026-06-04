@@ -1,6 +1,6 @@
 <div align="center">
 
-[![typing intro](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=hey%2C+I%27m+Medha.;I+build+things+that+see%2C+move%2C+and+think.;computer+vision+%C2%B7+autonomous+systems+%C2%B7+applied+ML)](https://github.com/M3dh4)
+[![typing intro](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=hey%2C+I%27m+Medha.;I+build+things+that+see%2C+move%2C+and+think.;computer+vision+%C2%B7+autonomous+systems+%C2%B7+applied+ML)](https://github.com/M3dh4)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-medha--sriram-58a6ff?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/medha-sriram-24bb8a28a/)
 [![Gmail](https://img.shields.io/badge/email-medhasriram245-58a6ff?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=58a6ff)](mailto:medhasriram245@gmail.com)

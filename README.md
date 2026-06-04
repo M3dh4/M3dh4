@@ -31,51 +31,17 @@ class Medha:
 
 ### 🧠 what I work with
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-**AI & Machine Learning**
-```
-PyTorch · TensorFlow · HuggingFace
-BERT · LLMs · scikit-learn
-```
+| 🤖 Robotics & Autonomy | 👁️ Computer Vision | 🧠 AI / ML |
+|:---:|:---:|:---:|
+| ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white) ![Nav2](https://img.shields.io/badge/Nav2-22314E?style=for-the-badge) ![SLAM](https://img.shields.io/badge/SLAM-22314E?style=for-the-badge) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLOv8-FF6F00?style=for-the-badge) ![RealSense](https://img.shields.io/badge/RealSense-0071C5?style=for-the-badge&logo=intel&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) |
 
-**Computer Vision**
-```
-OpenCV · YOLOv8 · MediaPipe
-Intel RealSense SDK · Depth Estimation
-```
+| ☁️ Cloud | 💻 Languages | 🛠️ Tools |
+|:---:|:---:|:---:|
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
 
-**Robotics & Autonomy**
-```
-ROS2 · Nav2 · RTAB-Map · SLAM
-EKF Sensor Fusion · Point Clouds
-```
-
-</td>
-<td valign="top" width="50%">
-
-**Cloud & Backend**
-```
-AWS Lambda · DynamoDB · S3
-Cognito · API Gateway · Docker
-```
-
-**Languages**
-```
-Python · C++ · TypeScript
-JavaScript · SQL · Bash
-```
-
-**Tools**
-```
-Git · Linux · RViz · Gazebo · Jupyter
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -127,19 +93,11 @@ LR vs SVM vs RF vs Naive Bayes on TF-IDF — precision/recall/F1 trade-off study
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=M3dh4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=090d13&title_color=58a6ff&icon_color=58a6ff&text_color=8b9dc3&border_radius=8)
-&nbsp;
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3dh4&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&bg_color=090d13&title_color=58a6ff&text_color=8b9dc3&border_radius=8)
+![stats](https://github-readme-stats.vercel.app/api?username=M3dh4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)
+&nbsp;&nbsp;
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3dh4&layout=donut&theme=tokyonight&hide_border=true&langs_count=6)
 
-![streak](https://streak-stats.demolab.com?user=M3dh4&theme=tokyonight-duo&hide_border=true&background=090d13&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b9dc3&dates=8b9dc3)
-
-</div>
-
----
-
-### 🏆 trophies
-
-<div align="center">
+![streak](https://streak-stats.demolab.com?user=M3dh4&theme=tokyonight-duo&hide_border=true)
 
 [![trophies](https://github-profile-trophy.vercel.app/?username=M3dh4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/M3dh4)
 
@@ -147,21 +105,27 @@ LR vs SVM vs RF vs Naive Bayes on TF-IDF — precision/recall/F1 trade-off study
 
 ---
 
-### 🌐 3D contribution map
+### 🎮 pac-man eats my contributions
 
-<!-- Run the GitHub Action once → then uncomment this and delete the placeholder -->
-<!-- ![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg) -->
+<div align="center">
+
+<!-- After running the Action below, replace with: -->
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M3dh4/M3dh4/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M3dh4/M3dh4/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/M3dh4/M3dh4/output/pacman-contribution-graph-dark.svg">
+</picture> -->
 
 <details>
-<summary>⚙️ one-time setup (2 min)</summary>
+<summary>⚙️ setup (2 min)</summary>
 <br>
 
-Create `.github/workflows/3d-contrib.yml`:
+Create `.github/workflows/pacman.yml`:
 
 ```yaml
-name: 3D Contrib
+name: Pacman Contribution Graph
 on:
-  schedule: [{ cron: "0 18 * * *" }]
+  schedule: [{ cron: "0 0 * * *" }]
   workflow_dispatch:
 permissions:
   contents: write
@@ -169,21 +133,23 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: M3dh4
-      - run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          if git commit -m "update 3d contrib"; then git push; fi
+      - uses: actions/checkout@v4
+      - uses: abozanona/pacman-contribution-graph@main
+        with:
+          github-user-name: M3dh4
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: update pacman graph
+          branch: output
+          create_branch: true
 ```
 
-Then **Actions → 3D Contrib → Run workflow**. Once done, swap the comment above.
+Then **Actions → Pacman Contribution Graph → Run workflow**.  
+Once done, uncomment the `<picture>` block above and delete this details block.
 
 </details>
+
+</div>
 
 ---
 

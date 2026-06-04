@@ -111,9 +111,9 @@ LR vs SVM vs RF vs Naive Bayes on TF-IDF — precision/recall/F1 trade-off study
 
 <!-- After running the Action below, replace with: -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M3dh4/M3dh4/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M3dh4/M3dh4/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/M3dh4/M3dh4/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M3dh4/M3dh4/output/dist/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M3dh4/M3dh4/output/dist/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/M3dh4/M3dh4/output/dist/pacman-contribution-graph-dark.svg">
 </picture> 
 
 </div>

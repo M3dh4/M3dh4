@@ -110,44 +110,11 @@ LR vs SVM vs RF vs Naive Bayes on TF-IDF — precision/recall/F1 trade-off study
 <div align="center">
 
 <!-- After running the Action below, replace with: -->
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M3dh4/M3dh4/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M3dh4/M3dh4/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/M3dh4/M3dh4/output/pacman-contribution-graph-dark.svg">
-</picture> -->
-
-<details>
-<summary>⚙️ setup (2 min)</summary>
-<br>
-
-Create `.github/workflows/pacman.yml`:
-
-```yaml
-name: Pacman Contribution Graph
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: abozanona/pacman-contribution-graph@main
-        with:
-          github-user-name: M3dh4
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: update pacman graph
-          branch: output
-          create_branch: true
-```
-
-Then **Actions → Pacman Contribution Graph → Run workflow**.  
-Once done, uncomment the `<picture>` block above and delete this details block.
-
-</details>
+</picture> 
 
 </div>
 

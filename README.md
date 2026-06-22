@@ -33,7 +33,7 @@ class Medha:
     ]
     languages   = ["Python", "C++", "TypeScript","JavaScript","HTML","React","Java"]
     principle   = "real-world deployment > lab benchmarks"
-    looking_for = "Master's (Fall 2027) · Research Collabs · Interesting Problems"
+    looking_for = "Robotics Engineer role · Software Engineering role · Research Collabs · Interesting Problems"
 ```
 ---
 

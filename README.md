@@ -26,14 +26,12 @@
 class Medha:
     name        = "Medha Sriram"
     university  = "VIT Vellore  ·  B.Tech CSE (AI & ML)  ·  2023–2027"
-    roles       = ["Software Team Lead @ SEDS", "Rover & Drone Autonomy Developer"]
+    roles       = ["Software Team Lead @ SEDS VIT (Rover Autonomy)", "Intern @ Sensei Technologies"]
     certs       = [
         "Oracle OCI 2025 Generative AI Professional",
         "Google Data Analytics"
     ]
     languages   = ["Python", "C++", "TypeScript","JavaScript","HTML","React","Java"]
-    principle   = "real-world deployment > lab benchmarks"
-    looking_for = "Robotics Engineer role · Software Engineering role · Research Collabs · Interesting Problems"
 ```
 ---
 
@@ -75,11 +73,17 @@ class Medha:
 
 </div>
 
-## Streak
+## Coding Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=M3dh4&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" />
+<a href="https://github.com/M3dh4">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=M3dh4&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=00D9FF&title_color=00D9FF&card_width=350" />
+</a>
+
+<a href="https://leetcode.com/u/med_yuh/">
+<img height="150" src="https://github-readme-leetcode-stats.vercel.app/api/card?username=med_yuh&theme=dark&sections=solved,streak&hide_border=true&animate=true" />
+</a>
 
 </div>
 ----

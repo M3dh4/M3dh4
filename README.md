@@ -77,11 +77,21 @@ class Medha:
 
 <div align="center">
 
-<img
-  src="https://github-readme-leetcode-stats.vercel.app/api/card?username=med_yuh&theme=dark&sections=solved,streak&hide_border=true&animate=true"
-  width="650"
-  alt="LeetCode Stats"
-/>
+<a href="https://leetcode.com/u/med_yuh/">
+  <img
+    src="https://leetcard.jacoblin.cool/med_yuh?theme=dark&font=JetBrains%20Mono&border=0&radius=8"
+    width="450"
+    alt="Medha's LeetCode Stats"
+  />
+</a>
+
+<a href="https://github.com/M3dh4">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=M3dh4&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF"
+    width="450"
+    alt="Medha's GitHub Streak"
+  />
+</a>
 
 </div>
 ----
